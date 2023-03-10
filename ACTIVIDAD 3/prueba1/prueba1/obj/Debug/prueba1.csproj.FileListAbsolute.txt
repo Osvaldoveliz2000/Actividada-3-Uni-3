@@ -1,0 +1,11 @@
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\bin\Debug\prueba1.exe.config
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\bin\Debug\prueba1.exe
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\bin\Debug\prueba1.pdb
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\obj\Debug\prueba1.csproj.AssemblyReference.cache
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\obj\Debug\prueba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\obj\Debug\prueba1.Form1.resources
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\obj\Debug\prueba1.Properties.Resources.resources
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\obj\Debug\prueba1.csproj.GenerateResource.cache
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\obj\Debug\prueba1.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\obj\Debug\prueba1.exe
+C:\Users\Familia\Desktop\Trabajos temporales\prueba1\prueba1\obj\Debug\prueba1.pdb
